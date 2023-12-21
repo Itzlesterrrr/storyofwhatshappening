@@ -108,7 +108,3 @@
     <footer>
         &copy; 2023 Admiring you secretly. All rights reserved.
     </footer>
-
-</body>
-
-</html>
