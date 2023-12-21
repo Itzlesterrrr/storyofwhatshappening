@@ -97,7 +97,7 @@
          ang puso kung uhaw sa pag-ibig. Pero I promise that I’ll prioritize my acads first than loving someone who doesn’t care about how you 
          feel inside for them.<h4>
 
-           <img src="picforweb.jpg" alt="please wait for updates" style="margin-top: 20px; margin-left: 210px;">
+           <img src="picforweb.jpg" alt="please wait for updates" style="margin-top: 20px; margin-left: 250px;">
 
 
          <main>
