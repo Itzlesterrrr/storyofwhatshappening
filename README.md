@@ -1,5 +1,3 @@
-# storyofwhatshappening
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
