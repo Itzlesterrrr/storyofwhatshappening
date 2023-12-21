@@ -97,6 +97,8 @@
          ang puso kung uhaw sa pag-ibig. Pero I promise that I’ll prioritize my acads first than loving someone who doesn’t care about how you 
          feel inside for them.<h4>
 
+         <img src="Anthony Pic.jpg" alt="Flowers in Chania">
+
          <main>
             <h2> Chapter 2: Please wait for updates</h2>
          </main>
